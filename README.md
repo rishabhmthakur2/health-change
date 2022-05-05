@@ -33,3 +33,5 @@ We also use multiple external APIs and services across all the three layers to b
 
 Attached is the technical [outline](https://docs.google.com/presentation/d/17XXRjMX2dbrFuFDQlHGtZL6sNJm5_E_VTPbnb6VzdhQ/edit?usp=sharing) of the project!
 
+<strong>All the current features and code is focussed towards building out our first POC!</strong>
+
