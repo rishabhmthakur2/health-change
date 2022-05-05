@@ -10,10 +10,12 @@ The end goal of Health'Change is to become a platform that allows people to dona
 
 You can find our pitch and more information on Health'Change [here](https://youtu.be/8fzt4T8l58g?t=3892).
 
+<i>Sidenote:</i> Health'Change was the winner of the pitch competition and was awareded the 1st position as part of the pitching compeition for [INDENG290](https://scetx.github.io/build-a-blockchain-startup/) - Build a Blockchain Startup
+
 ## The Team
-[Rishabh Thakur](https://www.linkedin.com/in/rishabhmthakur/) - Rishabh is the Technical brain behind Health'Change
-[Jakob Kraiger](https://www.linkedin.com/in/jakobkraiger/) - Jakob is a Medical Doctor by profession and is our Healthcare expert
-[Melissa Desde](https://www.linkedin.com/in/melissadesde/) - Any of our strategy and GTM market decisions can't go through without Melissa's approval
+- [Jakob Kraiger](https://www.linkedin.com/in/jakobkraiger/) - Jakob is a Medical Doctor by profession and is our Healthcare expert
+- [Melissa Desde](https://www.linkedin.com/in/melissadesde/) - Any of our strategy and GTM market decisions can't go through without Melissa's approval
+- [Rishabh Thakur](https://www.linkedin.com/in/rishabhmthakur/) - Rishabh is the Technical brain behind Health'Change
 
 We have also been lucky enough to have some wonderful advisors and mentors who have helped us from the point of ideation:
 - [Tommaso Di Bartolo](https://www.linkedin.com/in/tommasodibartolo/)

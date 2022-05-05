@@ -1,9 +1,16 @@
+// Router file for User related routes and functionality
+
+// Imports
 const express = require("express");
 const router = express.Router();
 const { uuid } = require("uuidv4");
 const { ObjectId } = require("mongodb");
+
+// Importing functions from our MongoHandler utils
 const { insertRecordToMongo, findRecords } = require("../utils/mongoHandler");
 
+// Get USER BY ID
+// Expects an id as part of the API request params and then searches the MongoDB using the id.
 router.get("/user/:id", async (req, res) => {
   const { id } = req.params;
 
@@ -23,6 +30,7 @@ router.get("/user/:id", async (req, res) => {
   }
 });
 
+// GET ALL USERS
 router.get("/user/", async (req, res) => {
   try {
     const userDetails = await findRecords({}, "user", false);
@@ -34,7 +42,9 @@ router.get("/user/", async (req, res) => {
   }
 });
 
+// CREATE A NEW USER
 router.post("/user", async (req, res) => {
+  
   // Future task - REMOVE ME WHEN DONE!
   // We will first trigger KYC verification here!
   // If that succeeds, then we move onto the next steps

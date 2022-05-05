@@ -2,7 +2,6 @@ const express = require("express");
 const cors = require("cors");
 const app = express();
 const bodyParser = require("body-parser");
-const router = express.Router();
 
 const port = process.env.PORT || 8000
 
@@ -14,6 +13,7 @@ app.use(cors());
 // Importing necessary routes
 const userRoutes = require('./routes/userRoutes');
 
+// User /user Routes
 app.use(userRoutes)
 
 app.listen(port, () => {

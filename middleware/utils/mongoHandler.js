@@ -12,6 +12,7 @@ const mongoClient = new MongoClient(uri, {
   serverApi: ServerApiVersion.v1,
 });
 
+// Fetching HealthChange database from Mongo
 const getDatabase = async () => {
   try {
     await mongoClient.connect();
@@ -22,6 +23,8 @@ const getDatabase = async () => {
   }
 };
 
+// Inserting a record into our Mongo collection
+// Expects: the message to be inserted and the collection to be inserted into
 const insertRecordToMongo = async (message, _collection) => {
   try {
     const database = await getDatabase();
@@ -34,6 +37,9 @@ const insertRecordToMongo = async (message, _collection) => {
   }
 };
 
+// Find records in a mongo collection
+// Expects: filter/options for search, collection name to be searched, and a flag that specifies if
+// a single record needs to be fetched or all of them
 const findRecords = async (filter, _collection, findOne) => {
   try {
     const database = await getDatabase();
