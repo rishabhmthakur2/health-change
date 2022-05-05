@@ -5,6 +5,18 @@ This layer functions as the <i>brain of Health'Change</i> as it handles all the 
 
 ## How to run
 
+First, make sure to set up your `.env` file in the `middleware` root folder to ensure you have all environment variables required for the config.
+
+```
+examplConfig.env
+
+MONGO_URL = "Your MONGO Connection URL"
+PINATA_API_Key = "Your PINATA API"
+PINATA_API_Secret = "Your PINATA API Secret"
+PINATA_JWT = "YOUR PINATA JWT Token"
+API_SETU_KEY = "YOUR API SETU KEY HERE"
+```
+
 Make sure you are within the `middleware` folder and that you have [Node](https://nodejs.org/en/) installed in your system. Then run the following commands.
 
 ```
