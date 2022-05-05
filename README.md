@@ -8,6 +8,8 @@ We use a combination of techniques such as KYC verification, Document encryption
 
 The end goal of Health'Change is to become a platform that allows people to donate and seek money from anyone across the world without the worry of being defrauded. We are also working with NGOs on the ground and looking at ways to set up DAO's to build and power self-help communities.
 
+You can find our pitch and more information on Health'Change [here](https://youtu.be/8fzt4T8l58g?t=3892).
+
 ## The Team
 [Rishabh Thakur](https://www.linkedin.com/in/rishabhmthakur/) - Rishabh is the Technical brain behind Health'Change
 [Jakob Kraiger](https://www.linkedin.com/in/jakobkraiger/) - Jakob is a Medical Doctor by profession and is our Healthcare expert
