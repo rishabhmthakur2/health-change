@@ -14,8 +14,8 @@ The end goal of Health'Change is to become a platform that allows people to dona
 [Melissa Desde](https://www.linkedin.com/in/melissadesde/) - Any of our strategy and GTM market decisions can't go through without Melissa's approval
 
 We have also been lucky enough to have some wonderful advisors and mentors who have helped us from the point of ideation:
-[Tommaso Di Bartolo](https://www.linkedin.com/in/tommasodibartolo/)
-[Dan Shields](https://www.linkedin.com/in/danwshields/)
+- [Tommaso Di Bartolo](https://www.linkedin.com/in/tommasodibartolo/)
+- [Dan Shields](https://www.linkedin.com/in/danwshields/)
 
 A special thanks to [Timmothy Gua](https://www.linkedin.com/in/timothy-guo-94507016a/) for all his valuable feedback.
 
