@@ -35,3 +35,11 @@ Attached is the technical [outline](https://docs.google.com/presentation/d/17XXR
 
 <strong>All the current features and code is focussed towards building out our first POC!</strong>
 
+## Running the Application
+
+You will have to run each of the three components seperately. So navigate to each folder and find the required steps in their respective READMEs!
+
+- [Middleware](https://github.com/rishabhmthakur2/health-change/blob/main/middleware/README.md)
+- [Frontend](https://github.com/rishabhmthakur2/health-change/blob/main/frontend/README.md)
+- [Blockchain](https://github.com/rishabhmthakur2/health-change/blob/main/blockchain/README.md)
+
